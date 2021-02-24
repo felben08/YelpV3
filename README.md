@@ -1,2 +1,2 @@
 # YelpV3
-introduction of yelp fusion kit
+introduction of yelp fusion
