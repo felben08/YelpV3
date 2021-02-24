@@ -1,0 +1,52 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Alamofire (5.2.2)
+  - CDYelpFusionKit (2.1.0):
+    - Alamofire (= 5.2.2)
+    - ObjectMapper (= 4.2.0)
+  - MBProgressHUD (1.2.0)
+  - ObjectMapper (4.2.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5)
+  - CDYelpFusionKit
+  - MBProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - Alamofire
+    - CDYelpFusionKit
+    - MBProgressHUD
+    - ObjectMapper
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  CDYelpFusionKit: b828e471ab7da62245d834c6cac71f7d35e16b48
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+
+PODFILE CHECKSUM: b95917e3fc1960b4775cf199a3aed4d7290bd3a0
+
+COCOAPODS: 1.10.0
